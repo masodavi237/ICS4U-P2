@@ -149,7 +149,7 @@ namespace Part_2
 
             WorkWithDoubles();
 
-            WorkWithDecimals();
+            WorkWithDecimals()
 
         }
     }
